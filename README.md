@@ -4,7 +4,7 @@ VitoLang challenge
 The goal of this challenge is to make your own game in your own language - VitoLang!
 
 The game's name is "Guess developer" and is based on the famous game "Guess animal".
-Your task is to make a program which will ask a user several questions about the developer
+Your task is to make a program which will ask a user several questions about the Heureka developer
 which the user is thinking about and to which the user can reply with simple yes/no answers.
 When the program is sure which developer the user is thinking about then it will print out
 his/her name. If the program is not sure and is out of questions it should make a
