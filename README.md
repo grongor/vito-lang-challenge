@@ -18,6 +18,14 @@ next time to guess the developer more precisely.
 You must complete that task in your own language - VitoLang! You can find all about it
 there: https://github.com/grongor/vito-lang
 
+The initial database of developers should contain at most 7 developers. The rest must be
+learned by the program itself.
+
+The challenge will be considered as done if you provide us with your source code
+in VitoLang. You also have to post a video on Twitter with hashtag #vanocesvitou which
+will show how the program learned to recognize a new developer (first it fail's to guess
+correctly and on a second run with same questions the programm will decide correctly).
+
 The entire interface, questions etc are up to your imagination. Please check "Guess animal
 example if you are still not sure about the task.
 
