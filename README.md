@@ -31,8 +31,7 @@ vit.novak $ chci guess-animal.nohy
 
 Hey, vit.novak, wanna play a game?
 
-Think about an animal and I will tell you what
-animal you are thinking about.
+Think about an animal and I will tell you what animal you are thinking about.
 
 Are you ready?
 > Yes
@@ -68,8 +67,7 @@ vit.novak $ chci guess-animal.nohy
 
 Hey, vit.novak, wanna play a game?
 
-Think about an animal and I will tell you what
-animal you are thinking about.
+Think about an animal and I will tell you what animal you are thinking about.
 
 Are you ready?
 > Yes
