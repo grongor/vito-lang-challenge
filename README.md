@@ -15,8 +15,13 @@ apologize and ask user to help it out - it should ask the user to enter another 
 and it's correct answer. The program will store that question to it's database and use it
 next time to guess the developer more precisely.
 
+You must complete that task in your own language - VitoLang! You can find all about it
+there: https://github.com/grongor/vito-lang
+
 The entire interface, questions etc are up to your imagination. Please check "Guess animal
 example if you are still not sure about the task.
+
+Good luck and have fun! :-)
 
 "Guess animal" example
 ----------------------
