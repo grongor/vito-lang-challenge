@@ -96,6 +96,6 @@ The animal you were thinking about is a dog.
 Is that correct?
 > Yes
 
-*\*epic music playing\** Of course it is :-)
+*epic music playing* Of course it is :-)
 ```
 
